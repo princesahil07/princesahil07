@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @princesahil07
 - 👀 I’m interested in developing new ideas and application and ace in future goals
-- 🌱 I’m currently learning MCA 
+- 🌱 I Have Completed My BCA
 - 💞️ I’m looking to collaborate on software indutry 
 - 📫 How to reach me 
 
