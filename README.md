@@ -13,8 +13,8 @@
 - 🎓 **BCA Graduate**
 - 💼 **Software Engineer with 4+ years of industry experience**
 - 💞️ Looking to **collaborate in the software industry**
-- 🛠️ Experienced in building **Accounting, Tally-like, Transportation & Customized Web Software**
-- 🌱 Always learning & improving modern web technologies  
+- 🛠️ Built **Accounting, Tally-like, Transportation & Customized Web Software**
+- 🌱 Always learning modern technologies  
 
 ---
 
@@ -31,15 +31,26 @@
 
 ---
 
+## 📊 GitHub Analytics  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=princesahil07&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=princesahil07&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=princesahil07&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
 ## 🏗️ Projects & Experience  
 
 ✔️ Accounting Software  
 ✔️ Tally-like Business Software  
 ✔️ Transportation Management Systems  
 ✔️ Customized Web Applications  
-✔️ REST APIs & Dashboard Systems  
-
-> I specialize in **end-to-end development**, from database design to UI/UX and backend APIs.
+✔️ REST APIs & Dashboards  
 
 ---
 
@@ -58,8 +69,8 @@
 
 ## ⚡ Fun Fact  
 
-> 💡 I love transforming **business ideas into powerful software solutions**.
+> 💡 I love converting **business requirements into powerful software solutions**.
 
 ---
 
-⭐ **If you like my work, don’t forget to star my repositories!**  
+⭐ **If you like my work, please consider starring my repositories!**  
